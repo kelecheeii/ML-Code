@@ -1,4 +1,4 @@
-Insurance Fraud Detection
+# Insurance Fraud Detection
 This project aims to develop a machine learning model to identify fraudulent claims in insurance data. The goal is to minimize false negatives to ensure that fraudulent claims are detected and flagged effectively.
 
 Dataset
